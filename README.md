@@ -1,7 +1,7 @@
 # TSETrack
 The official implementation for the paper [_Efficient Vision Transformer with Token Sparsification for Event-based Object Tracking_](https://xxx).
 
-[[Models](https://xx)][[Raw Results](https://xx)]
+[[Models]([https://xx](https://1drv.ms/f/s!AoopRFuuZ7xoh9BxI6aZVJJwpHX5iw?e=Fx1qpv))][[Raw Results](https://1drv.ms/u/s!AoopRFuuZ7xoh9BvNK1eTCL_lX8jIg?e=t3froa)]
 
 
 
@@ -59,7 +59,7 @@ Replace `--config` with the desired model config under `experiments/tsetrack`. W
 
 
 ## Evaluation
-Download the model weights from [Google Drive](https://xx) 
+Download the model weights from [OneDrive]([https://xx](https://1drv.ms/f/s!AoopRFuuZ7xoh9BxI6aZVJJwpHX5iw?e=Fx1qpv)) 
 
 Put the downloaded weights on `$PROJECT_ROOT$/output/checkpoints/train/tsetrack`
 
